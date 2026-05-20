@@ -37,7 +37,11 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-(Add screenshots here after uploading to GitHub)
+### Home Page
+![Home](screenshots/homepage.png)
+
+### Analysis Result
+![Result](screenshots/result.png)
 
 ## 💡 Future Improvements
 
